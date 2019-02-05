@@ -4,6 +4,6 @@ body {
 }
 
 #picture {
-        max-width: 150;
+        width: 50;
         height: auto;
 }
