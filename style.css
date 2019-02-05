@@ -3,7 +3,7 @@ body{
         text-align: center;
 }
 
-#picture{
-        width: 50;
+img{
+        width: 50px;
         height: auto;
 }
