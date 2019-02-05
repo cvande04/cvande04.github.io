@@ -19,7 +19,8 @@ img{
         width: 60%;
         height: auto;
         display: block;
-        margin: 0 auto;
+        margin-right: auto;
+        margin-left: auto; 
 }
 
 .item{
