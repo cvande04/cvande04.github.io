@@ -18,7 +18,7 @@ h2, h3{
 img{
         width: 60%;
         height: auto;
-        text-align: center;
+        display: block;
 }
 
 .item{
