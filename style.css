@@ -1,5 +1,10 @@
 body {
-    font-family: "Cambria";
+        font-family: "Cambria";
+        text-align: center;
+}
+
+h1 {
+        color: purple;
 }
 
 #picture {
