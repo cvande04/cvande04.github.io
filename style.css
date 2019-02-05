@@ -5,8 +5,12 @@ body{
         margin-right: 20%;
 }
 
-h1 {
+h1{
         color: purple;
+}
+
+h2, h3{
+        color: black;
 }
 
 img{
