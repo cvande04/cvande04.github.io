@@ -2,7 +2,6 @@ body {
     font-family: "Cambria";
 }
 
-img {
-        width: 50%;
-        height: 50%;
+#picture {
+        size: 50%;
 }
